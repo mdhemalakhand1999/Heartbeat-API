@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Heartbeat API
+ * Plugin Name: Heartbeat API - Documentation
  * Plugin URI: https://hsoft.cloud/products/wooxpart
  * Description: Get better feedback. Increase your conversion rate using HSoft Store plugin.
  * Version: 1.0.0
